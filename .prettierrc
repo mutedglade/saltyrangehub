@@ -1,0 +1,12 @@
+name: demo
+language: nodejs
+version: 1.0.0
+PORT=8080
+HOST=0.0.0.0
+LOG_LEVEL=info
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
